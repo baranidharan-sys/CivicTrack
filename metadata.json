@@ -1,0 +1,6 @@
+{
+  "name": "CivicTrack",
+  "description": "Public Problem Reporting and Resolution Management Platform — Report It. Track It. Resolve It.",
+  "requestFramePermissions": ["geolocation"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
